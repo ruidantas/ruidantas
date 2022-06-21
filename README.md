@@ -31,7 +31,7 @@ Formando em Licenciatura em Física e estudante de desenvolvimento Web com HTML,
   </a>
   <a href="mailto:ruifisicauesb@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Outlook-8752CC?style=flat&logo=Outlook&logoColor=white">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ruidantas" />
 
 </div>
 
