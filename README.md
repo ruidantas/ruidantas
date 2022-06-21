@@ -18,18 +18,18 @@ Formando em Licenciatura em Física e estudante de desenvolvimento Web com HTML,
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://www.instagram.com/luismanfroni/" target="_blank">
+  <a href="https://www.instagram.com/_ruidantas/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
-  <a href="https://www.twitch.tv/siulmanfroni/" target="_blank">
+  <a href="https://www.twitch.tv/azzuy_" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF.svg?&style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
   </a>
   
-  <a href="https://steamcommunity.com/id/luisfman/" target="_blank">
+  <a href="https://steamcommunity.com/id//" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam">
   </a>
-  <a href="mailto:duartecgustavo@outlook.com" target="_blank">
+  <a href="mailto:ruifisicauesb@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Outlook-8752CC?style=flat&logo=Outlook&logoColor=white">
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
 
