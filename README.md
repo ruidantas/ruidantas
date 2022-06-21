@@ -3,7 +3,7 @@
 ***Come join me on this adventure***
 ##
 Sou entusiasta nessa área de tecnologia, gosto de aprender e evoluir minhas habilidades continuamente. Sempre estou em busca de aprender uma tecnologia nova.
-Formando em Licenciatura em Física. Estudante de desenvolvimento Web com HTML, CSS, JavaScript, ReactJs e NextJs, desenvolvimento Backend com NodeJs.
+Formando em Licenciatura em Física e estudante de desenvolvimento Web com HTML, CSS, JavaScript, ReactJs e NextJs, desenvolvimento Backend com NodeJs.
 
 
 
@@ -29,6 +29,9 @@ Formando em Licenciatura em Física. Estudante de desenvolvimento Web com HTML, 
   <a href="https://steamcommunity.com/id/luisfman/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000.svg?&style=flat-square&logo=steam&logoColor=white" alt="Steam">
   </a>
+  <a href="mailto:duartecgustavo@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Outlook-8752CC?style=flat&logo=Outlook&logoColor=white">
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=duartecgustavo.duartecgustavo" />
 
 </div>
 
